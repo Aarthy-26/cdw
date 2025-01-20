@@ -1,4 +1,4 @@
-print("hi")
+print("bye")
 a=10
 print(a)
 
